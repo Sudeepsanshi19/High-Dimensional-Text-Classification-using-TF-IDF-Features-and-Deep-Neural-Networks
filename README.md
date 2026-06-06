@@ -177,18 +177,6 @@ These files can be used in reports, presentations, or documentation to explain t
 - The dataset download requires internet access the first time `fetch_20newsgroups` is run.
 - Results may vary slightly depending on TensorFlow version, hardware, and random initialization.
 
-## Project Structure
-
-```text
-Paper_Latex_Code/
-+-- TF-IDF_Model.ipynb
-+-- accuracy_loss.png
-+-- categorization_system.png
-+-- confusion_matrix.png
-+-- per_class_accuracy.png
-+-- text_classification_architecture.png
-```
-
 ## Summary
 
 This notebook provides a complete baseline for multi-class text classification using TF-IDF feature extraction and a dense neural network. It is suitable for comparing traditional text representations with neural classifiers and for generating classification metrics on the 20 Newsgroups benchmark dataset.

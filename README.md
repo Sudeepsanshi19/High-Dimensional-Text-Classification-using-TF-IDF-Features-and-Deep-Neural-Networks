@@ -1,7 +1,7 @@
 # TF-IDF Text Classification Model
 
 This project trains a neural-network text classifier on the 20 Newsgroups dataset using TF-IDF features and a multilayer perceptron (MLP).The model converts text documents into high-dimensional TF-IDF vectors, trains a dense Keras classifier, and evaluates performance using accuracy and a detailed classification report.
-visit this `https://ieeexplore.ieee.org/document/11496177`  for our research paper published via IEEE conference held at Chandigarh University 2026.
+visit this following link  `https://ieeexplore.ieee.org/document/11496177`  for our research paper published via IEEE conference held at Chandigarh University 2026.
 ## Project Overview
 
 The notebook demonstrates a supervised text classification pipeline for assigning news documents to one of 20 topic categories from the 20 Newsgroups dataset.
